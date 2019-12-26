@@ -1,0 +1,20 @@
+{
+  "name": "react_serv",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.3",
+    "cors": "^2.8.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "express-formidable": "^1.0.0",
+    "formidable": "^1.2.1",
+    "http-errors": "~1.6.2",
+    "jimp": "^0.5.6",
+    "mime": "^2.3.1",
+    "mysql2": "^1.6.1"
+  }
+}
